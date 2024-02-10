@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kali
+- 👀 I’m interested in cybersecurity, networking and coding
+- 🌱 I’m currently learning python
+- 🛸 I’m looking to collaborate on new projects with others
+- 📫 How to reach me kali008500@gmail.com
